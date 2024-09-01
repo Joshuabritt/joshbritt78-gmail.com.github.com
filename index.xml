@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Port Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Port Hugo</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 31 Aug 2024 15:00:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Math Matters</title>
+      <link>http://localhost:1313/posts/why-math-matters/</link>
+      <pubDate>Sat, 31 Aug 2024 15:00:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/why-math-matters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 31 Aug 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Welcome to OrionMath, where we explore the beauty and power of mathematics. This site is dedicated to providing clear and insightful explanations on a wide range of mathematical topics.</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 31 Aug 2024 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Welcome to my site! This is my first post.</description>
+    </item>
+  </channel>
+</rss>
